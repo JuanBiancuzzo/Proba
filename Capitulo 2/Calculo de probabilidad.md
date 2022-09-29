@@ -5,7 +5,7 @@
 
 ### Función de probabilidad de un vector aleatorio
 ---
-![[Función de distribución#Calculo de probabilidad en un intervalo de mathbb R 2]]
+![[Función de distribución para vector aleatorio#Calculo de probabilidad en un intervalo]]
 
 
 ### Función de probabilidad de una variable aleatoria discreta
@@ -20,7 +20,7 @@
 
 ### Función de probabilidad de un vector de variables discretas
 ---
-![[Función de probabilidad#Caclulo de probabilidad de un intervalo]]
+![[Función de probabilidad para vector aleatorio#Caclulo de probabilidad de un intervalo]]
 
 
 ### Función de densidad de una variable aleatoria continua
@@ -30,5 +30,5 @@
 
 ### Función de densidad de un vector de variables continuas
 ---
-![[Función de densidad#Calculo de probabilidad en un intervalo en mathbb R 2]]
+![[Función de densidad para vector aleatorio#Calculo de probabilidad en un intervalo]]
 

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b271681bae8f077",
+        "id": "f9df4be164b2a08b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Capitulo 3/Esperanza con vector aleatorio.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8ec006deda2d50c",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitulo 3/Esperanza con vector aleatorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitulo 3/Esperanza con vector aleatorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitulo 3/Esperanza con vector aleatorio.md"
+              }
             }
           }
         ]
@@ -120,6 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b271681bae8f077",
-  "lastOpenFiles": []
+  "active": "f9df4be164b2a08b",
+  "lastOpenFiles": [
+    "Capitulo 3/Coeficiente de correlación.md",
+    "Capitulo 3/Covarianza.md",
+    "Capitulo 3/Desigualdad de Markov.md",
+    "Capitulo 3/Desigualdad de Tchevychev.md",
+    "Capitulo 3/Desvío estándar.md",
+    "Capitulo 3/Esperanza.md",
+    "Capitulo 3/Esperanza con vector aleatorio.md",
+    "Capitulo 3/Esperanza parcial.md",
+    "Capitulo 3/Mediana.md",
+    "Capitulo 3/Moda.md"
+  ]
 }
