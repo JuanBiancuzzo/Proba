@@ -4,6 +4,12 @@ Una [[Variable aleatoria]] tiene distribución exponencial de parametro $\lambda
 ##### Notación
 $$ X \sim \varepsilon(\lambda)$$
 
+#### Notas
+---
+* El [[Soporte]] de $X$ es $Sop(X) = [0, \infty)$ 
+* $\lambda > 0$
+* La [[Esperanza]] es $E[X] = \frac{1}{\lambda}$ y la [[Varianza]] es $Var(X) = \frac{1}{\lambda^2}$.
+
 
 ### Propiedades
 ---

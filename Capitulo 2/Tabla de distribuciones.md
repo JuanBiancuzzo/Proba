@@ -26,3 +26,7 @@
 ### Distribución normal
 ---
 ![[Distribución normal#Definición]]
+
+### Distribución Weibull
+---
+![[Distribución Weibull#Definición]]

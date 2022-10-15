@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
+                "file": "Capitulo 2/Tabla de distribuciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
+                "file": "Capitulo 2/Tabla de distribuciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
+                "file": "Capitulo 2/Tabla de distribuciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md"
+                "file": "Capitulo 2/Tabla de distribuciones.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "6b49af0b0dc43d57",
   "lastOpenFiles": [
-    "Capitulo 4/Método del Jacobiano.md",
-    "Capitulo 4/Método del Jacobiano generalizado.md",
-    "Capitulo 2/Función de densidad conjunta.md",
-    "Capitulo 4/Propiedades de funciones de distribuciones.md",
-    "Capitulo 2/Función de densidad.md",
-    "Capitulo 2/Función de distribución para vector aleatorio.md",
-    "Capitulo 2/Función de distribución.md",
-    "probabilidad_distribuciones.pdf",
-    "Capitulo 2/Eventos equivalentes.md",
-    "Capitulo 2/Tabla de distribuciones.md"
+    "Distribuciones/Distribución de Bernoulli.md",
+    "Capitulo 2/Tabla de distribuciones.md",
+    "Distribuciones/Distribución normal.md",
+    "Distribuciones/Distribución exponencial.md",
+    "Distribuciones/Distribución uniforme.md",
+    "Distribuciones/Distribución Weibull.md",
+    "Distribuciones/Función Gamma.md",
+    "Distribuciones/Distribución Gamma.md",
+    "Distribuciones/probabilidad_distribuciones.pdf",
+    "Capitulo 4/Propiedades de funciones de distribuciones.md"
   ]
 }

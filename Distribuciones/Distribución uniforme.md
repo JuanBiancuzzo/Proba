@@ -5,6 +5,11 @@ Para una [[Variable aleatoria continua]] se define su [[Función de densidad]] d
 ##### Notación
 $$ X \sim U(a, b) $$
 
+#### Notas
+---
+* El [[Soporte]] de $X$ es $Sop(X) = [a, b]$ 
+* $a < b$
+* La [[Esperanza]] es $E[X] = \frac{a + b}{2}$ y la [[Varianza]] es $Var(X) = \frac{(b - a)^2}{12}$.
 
 ### Razonamiento
 ---
