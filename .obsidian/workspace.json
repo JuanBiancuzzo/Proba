@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitulo 2/Tabla de distribuciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitulo 2/Tabla de distribuciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitulo 2/Tabla de distribuciones.md"
+              }
             }
           }
         ]
@@ -138,15 +142,15 @@
   },
   "active": "ddd5dc43d16c41fa",
   "lastOpenFiles": [
+    "Distribuciones/Distribución de Pascal.md",
+    "Distribuciones/Distribución Binomial.md",
+    "Distribuciones/Distribución Geométrica.md",
+    "Distribuciones/Distribución de Bernoulli.md",
     "Capitulo 2/Tabla de distribuciones.md",
+    "Distribuciones/Distribución de Poisson.md",
     "Distribuciones/Distribución Weibull.md",
     "Distribuciones/Distribución Gamma.md",
-    "Distribuciones/Distribución de Bernoulli.md",
     "Distribuciones/Distribución normal.md",
-    "Distribuciones/Distribución exponencial.md",
-    "Distribuciones/Distribución uniforme.md",
-    "Distribuciones/Función Gamma.md",
-    "Distribuciones/probabilidad_distribuciones.pdf",
-    "Capitulo 4/Propiedades de funciones de distribuciones.md"
+    "Distribuciones/Distribución exponencial.md"
   ]
 }
