@@ -4,16 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "f9df4be164b2a08b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Capitulo 2/Distribución Gamma.md",
-            "mode": "source",
-            "source": false
+        "id": "6243a4a93be15087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6b17dbccda46b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 2/Función de distribución.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "317c21a611d7b792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f5011372b1c47601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b49af0b0dc43d57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probabilidad_distribuciones.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -61,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8ec006deda2d50c",
@@ -77,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 2/Distribución Gamma.md",
+                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 2/Distribución Gamma.md",
+                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 2/Distribución Gamma.md"
+                "file": "Capitulo 4/Propiedades de funciones de distribuciones.md"
               }
             }
           }
@@ -128,17 +166,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9df4be164b2a08b",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "317c21a611d7b792",
   "lastOpenFiles": [
-    "Capitulo 2/Función de probabilidad.md",
-    "Capitulo 2/Truncamiento.md",
-    "Capitulo 2/Probabilidad condicional.md",
+    "Capitulo 2/Tabla de distribuciones.md",
+    "probabilidad_distribuciones.pdf",
+    "Capitulo 2/Distribución de Poisson.md",
+    "Capitulo 2/Distribución Gamma.md",
+    "Capitulo 4/Propiedades de funciones de distribuciones.md",
     "Capitulo 2/Función de distribución.md",
-    "Capitulo 1/Formula de Bayes.md",
-    "Capitulo 2/Función de probabilidad para vector aleatorio.md",
-    "Capitulo 2/Independencia.md",
-    "Capitulo 3/Partición.md",
-    "Capitulo 3/Esperanza con vector aleatorio.md",
-    "Capitulo 3/Coeficiente de correlación.md"
+    "Capitulo 2/Calculo de probabilidad.md",
+    "Algo.md",
+    "2022-10-14.md",
+    "Capitulo 2/Función de probabilidad.md"
   ]
 }

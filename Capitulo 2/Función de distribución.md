@@ -19,7 +19,7 @@ $$ \begin{matrix}
 	\mathbb{P}(X \in I) = \mathbb{P}(a < X \leq b) = F_X(b) - F_X(a) & I = (a, b] \\ \\
 	\mathbb{P}(X \in I) = \mathbb{P}(a < X < b) = (F_X(b) - \mathbb{P}(b)) - F_X(a) & I = (a, b) \\ \\
 	\mathbb{P}(X \in I) = \mathbb{P}(a \leq X < b) = F_X(b) - \mathbb{P}(b) - (F_X(a) - \mathbb{P}(a)) & I = [a, b) \\ \\
-	\mathbb{P}(X \in I) = \mathbb{P}(a < X \leq b) = F_X(b) - (F_X(a) - \mathbb{P}(a)) & I = [a, b] \\
+	\mathbb{P}(X \in I) = \mathbb{P}(a \leq X \leq b) = F_X(b) - (F_X(a) - \mathbb{P}(a)) & I = [a, b] \\
 \end{matrix}$$
  
 
