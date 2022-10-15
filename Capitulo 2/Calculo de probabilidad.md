@@ -30,5 +30,5 @@
 
 ### Función de densidad de un vector de variables continuas
 ---
-![[Función de densidad para vector aleatorio#Calculo de probabilidad en un intervalo]]
+![[Función de densidad conjunta#Calculo de probabilidad en un intervalo]]
 
