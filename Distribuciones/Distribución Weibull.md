@@ -9,3 +9,8 @@ $$ X \sim Wei(c, \alpha) $$
 * El [[Soporte]] de $X$ es $Sop(X) = [0, \infty)$ 
 * $c > 0$ y $\alpha > 0$
 * La [[Esperanza]] es $E[X] = \alpha \cdot \Gamma(1 + \frac{1}{c})$ y la [[Varianza]] es $Var(X) = \alpha^2 \cdot (\Gamma(1 + \frac{2}{c}) - \Gamma^2(1 + \frac{1}{c}))$ donde $\Gamma(x)$ es la [[Función Gamma]].
+
+
+### Observaciones
+---
+Cuando se tiene una [[Variable aleatoria]] $X \sim Wei(c, 2)$ entonces $X^2 \sim Exp(\frac{1}{c^2})$ ([[Distribución exponencial]]).

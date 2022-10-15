@@ -15,4 +15,4 @@ $$ X \sim \Gamma(\nu, \lambda) $$
 ---
 La función $\Gamma(t)$ crece muy rápidamente, y para evitar problemas numéricos en algunos algoritmos conviene adaptar las formulas para que aparezca el logaritmo de la función $log|\Gamma(t)|$ 
 
-Cuando se tiene una [[Variable aleatoria]] $X \sim \Gamma(1, \lambda)$ es  equivalente a tener una [[Distribución exponencial]] 
+Cuando se tiene una [[Variable aleatoria]] $X \sim \Gamma(1, \lambda)$ es equivalente a tener una [[Distribución exponencial]] 
