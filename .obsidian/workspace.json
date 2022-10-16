@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df88db511a5534a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba/prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 2/Tabla de distribuciones.md",
+                "file": "prueba/prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 2/Tabla de distribuciones.md",
+                "file": "prueba/prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 2/Tabla de distribuciones.md"
+                "file": "prueba/prueba.md"
               }
             }
           }
@@ -139,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0488016d1d7af35a",
+  "active": "de7c831a8abd454c",
   "lastOpenFiles": [
-    "Distribuciones/probabilidad_distribuciones.pdf",
     "Capitulo 2/Tabla de distribuciones.md",
+    "Distribuciones/probabilidad_distribuciones.pdf",
     "Distribuciones/Distribución Gamma.md",
     "Capitulo 5/Variable discreta condicional.md",
     "Capitulo 5/Variable aleatoria condicional.md",
