@@ -44,6 +44,11 @@
 ---
 ![[Distribución normal#Definición]]
 
+### Distribución Chi cuadrado
+---
+![[Distribución Chi cuadrado#Definición]]
+
+
 ### Distribución Weibull
 ---
 ![[Distribución Weibull#Definición]]
