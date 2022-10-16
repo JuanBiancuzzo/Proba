@@ -8,6 +8,6 @@ $$ X \sim Ber(\mu) $$
 
 #### Notas
 ---
-* El [[Rango de una variable discreta]] de $X$ es $R_X = \{ 0, 1 \}$
+* El [[Rango]] de $X$ es $R_X = \{ 0, 1 \}$
 * $p \in (0, 1)$ 
 * La [[Esperanza]] es $E[X] = p$ y la [[Varianza]] es $Var(X) = p \cdot (1 - p)$

@@ -9,6 +9,6 @@ $$ X \sim H(N, d, n) $$
 
 #### Notas
 ---
-* El [[Rango de una variable discreta]] de $X$ es $R_X = \{ x \in \mathbb{Z} : max\{ 0, d + n - N \} \leq x \leq min\{ n, d \} \}$.
+* El [[Rango]] de $X$ es $R_X = \{ x \in \mathbb{Z} : max\{ 0, d + n - N \} \leq x \leq min\{ n, d \} \}$.
 * $d \leq N$, $n \leq N \in \mathbb{N}$
 * La [[Esperanza]] es $E[X] = \displaystyle\frac{n \cdot d}{N}$ y la [[Varianza]] es $Var(X) = \displaystyle\frac{n \cdot d \cdot (N - d) \cdot (N - n)}{N^2 \cdot (N - 1)}$.

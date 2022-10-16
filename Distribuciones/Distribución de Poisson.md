@@ -6,6 +6,6 @@ $$ X \sim Poi(\mu) $$
 
 #### Notas
 ---
-* El [[Rango de una variable discreta]] de $X$ es $R_X = \{ x \in \mathbb{Z} : z \geq 0 \}$
+* El [[Rango]] de $X$ es $R_X = \{ x \in \mathbb{Z} : z \geq 0 \}$
 * $\mu > 0$ 
 * La [[Esperanza]] es $E[X] = \mu$ y la [[Varianza]] es $Var(X) = \mu$

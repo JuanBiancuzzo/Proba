@@ -3,7 +3,7 @@
 Dado una [[Función de variable aleatoria#Para Vector aleatorio]] $h(X, Y)$ cualquiera
 
 ##### Con variable discreta
-Sean $X$, $Y$ [[Variable aleatoria discreta]], con [[Función de probabilidad]] $p_{X, Y}(x, y)$ el valor medio de $X$, $Y$ es $$ E[h(X, Y)] = \sum_x \sum_y h(x, y) \cdot p_{X, Y}(x, y) = \sum_{(x, y) \in R_{X, Y}} h(x, y) \cdot p_{X, Y}(x, y) $$ donde $x$ e $y$ estan en [[Rango de un vector discreto]].
+Sean $X$, $Y$ [[Variable aleatoria discreta]], con [[Función de probabilidad]] $p_{X, Y}(x, y)$ el valor medio de $X$, $Y$ es $$ E[h(X, Y)] = \sum_x \sum_y h(x, y) \cdot p_{X, Y}(x, y) = \sum_{(x, y) \in R_{X, Y}} h(x, y) \cdot p_{X, Y}(x, y) $$ donde $x$ e $y$ estan en [[Rango de un vector]].
 
 ##### Con varaibel continua
 Sean $X$, $Y$ [[Variable aleatoria continua]], con [[Función de densidad]] $f_{X, Y}(x, y)$ el valor medio de $X$, $Y$ es $$ E[h(X, Y)] = \int_{-\infty}^{\infty} \int_{-\infty}^{\infty} h(x, y) \cdot f_{X, Y}(x, y) \cdot dx \cdot dy = \int_{(x, y) \in S_{X, Y}} h(x, y) \cdot f_{X, Y}(x, y) \cdot dx \cdot dy $$ donde $S_{X, Y}$ es el [[Soporte]] de las variables $X$ e $Y$.

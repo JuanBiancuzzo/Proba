@@ -9,5 +9,5 @@ Donde debe cumplir:
 
 #### Caclulo de probabilidad de un intervalo
 ---
-Dado un conjunto $A \subseteq R_{X, Y}$ es el rango [[Rango de un vector discreto]], entonces se puede calcular la probabilidad como:
+Dado un conjunto $A \subseteq R_{X, Y}$ es el rango [[Rango de un vector]], entonces se puede calcular la probabilidad como:
 $$ \mathbb{P}((X, Y) \in A) = \sum \sum{}_{(x, y) \in A}p_{X, y}(x, y) $$

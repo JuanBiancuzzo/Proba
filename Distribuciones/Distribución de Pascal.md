@@ -8,7 +8,7 @@ $$ X \sim Pas(k, p) $$
 
 #### Notas
 ---
-* El [[Rango de una variable discreta]] de $X$ es $R_X = \{x \in \mathbb{Z} : x \geq k\}$
+* El [[Rango]] de $X$ es $R_X = \Set{x \in \mathbb{Z} : x \geq k}$ 
 * $p \in (0, 1)$ y $k \in \mathbb{N}$ 
 * La [[Esperanza]] es $E[X] = \frac{k}{p}$ y la [[Varianza]] es $Var(X) = \frac{k \cdot (1 - p)}{p^2}$.
 

@@ -5,7 +5,7 @@ Sea $X$ una [[Variable aleatoria discreta]], se llama función de probabilidad d
 Cada resultado posible $x_i$ asociamos un numero $p_X(x_i) = \mathbb{P}(X = x_i)$ que debe cumplir:
 1) $p_X(x_i) \geq 0, \forall i$ 
 2) $\sum_{x \in R_X} p_X(x) = 1$
-Donde $R_X$ es el [[Rango de una variable discreta]]
+Donde $R_X$ es el [[Rango]]
 
 
 #### Calculo de probabilidad de un punto
@@ -17,5 +17,5 @@ Es la [[Función de distribución]] por izquierda menos la [[Función de distrib
 
 #### Calculo de probabilidad en un intervalo
 --- 
-Dado un conjunto $A \subseteq R_X$ donde $R_X$ es el [[Rango de una variable discreta]], entonces se puede calcular la probabilidad como:
+Dado un conjunto $A \subseteq R_X$ donde $R_X$ es el [[Rango]], entonces se puede calcular la probabilidad como:
 $$ \mathbb{P}(X \in A) = \sum_{x \in A} P_X(x) $$

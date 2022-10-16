@@ -4,7 +4,7 @@ Sea $(\Omega, \mathbb{A}, \mathbb{P})$ un [[Espacio de probabilidad]] y $X$ una 
 
 Una variable aleatoria discreta es aquella cuyos valores posibles constituyen un conjunto finito o infinito numerable,.
 
-Se puede definir el rango de una variable discreta![[Rango de una variable discreta#Definición]]
+Se puede definir el rango de una variable discreta![[Rango#Definición]]
 
 ### Definición con [[Átomos]]
 ---
