@@ -21,6 +21,11 @@
 ![[Distribución de Poisson#Definición]]
 
 
+### Distribución Hipergeométrica
+---
+![[Distribución Hipergeométrica#Definición]]
+
+
 # Distribuciones continuas
 
 ### Distribución Uniforme

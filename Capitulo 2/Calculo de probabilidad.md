@@ -20,7 +20,7 @@
 
 ### Función de probabilidad de un vector de variables discretas
 ---
-![[Función de probabilidad para vector aleatorio#Caclulo de probabilidad de un intervalo]]
+![[Función de probabilidad conjunta#Caclulo de probabilidad de un intervalo]]
 
 
 ### Función de densidad de una variable aleatoria continua

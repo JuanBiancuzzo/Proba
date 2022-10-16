@@ -14,7 +14,7 @@ Se puede espresar $\mu(X) = E[X]$
 Dado una [[Función de variable aleatoria]] $h(X)$ cualquiera
 
 #### Para variable discreta
-Sea $X$ una [[Variable aleatoria discreta]] con [[Función de probabilidad]] $p_X(x)$, el valor esperado (o media) de $X$ es $$ E[h(X)] = \sum_{x \in R_X} h(x) \cdot p_X(x) $$ donde $R_X$ es el [[Rango de una variable aleatoria discreta]]
+Sea $X$ una [[Variable aleatoria discreta]] con [[Función de probabilidad]] $p_X(x)$, el valor esperado (o media) de $X$ es $$ E[h(X)] = \sum_{x \in R_X} h(x) \cdot p_X(x) $$ donde $R_X$ es el [[Rango de una variable discreta]]
 
 #### Para variable continua
 Sea $X$ una [[Variable aleatoria continua]] con [[Función de densidad]] $f_X(x)$, el valor esperado de $X$ es $$ 
