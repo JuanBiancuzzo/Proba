@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba/Holusss diosaaa.md",
+                "file": "Capitulo 1/Probabilidad condicional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba/Holusss diosaaa.md",
+                "file": "Capitulo 1/Probabilidad condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba/Holusss diosaaa.md",
+                "file": "Capitulo 1/Probabilidad condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prueba/Holusss diosaaa.md"
+                "file": "Capitulo 1/Probabilidad condicional.md"
               }
             }
           }
@@ -139,8 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0488016d1d7af35a",
+  "active": "de7c831a8abd454c",
   "lastOpenFiles": [
+    "Capitulo 1/Formula de Bayes.md",
+    "prueba/Holusss diosaaa.md",
     "Capitulo 2/Tabla de distribuciones.md",
     "Distribuciones/probabilidad_distribuciones.pdf",
     "Distribuciones/Distribución Gamma.md",
@@ -148,8 +150,6 @@
     "Capitulo 5/Variable aleatoria condicional.md",
     "Capitulo 2/Variables independientes.md",
     "Capitulo 4/Propiedades de funciones de distribuciones.md",
-    "Capitulo 3/Esperanza con vector aleatorio.md",
-    "Capitulo 3/Coeficiente de correlación.md",
-    "Capitulo 3/Covarianza.md"
+    "Capitulo 3/Esperanza con vector aleatorio.md"
   ]
 }
