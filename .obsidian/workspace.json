@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0488016d1d7af35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distribuciones/Distribución Chi cuadrado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7b617b47f58fdc3",
             "type": "leaf",
             "state": {
@@ -30,21 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59d8f6df99aeab33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distribuciones/Distribución de Pascal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "41c724c64069b1cc",
+        "id": "0edef048682d6353",
         "type": "tabs",
         "children": [
           {
-            "id": "8111236a963b2adf",
+            "id": "1b967436eae80a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución Weibull.md",
+                "file": "Distribuciones/Distribución Beta.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md",
+                "file": "Distribuciones/Distribución Beta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md",
+                "file": "Distribuciones/Distribución Beta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md"
+                "file": "Distribuciones/Distribución Beta.md"
               }
             }
           }
@@ -171,17 +171,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d7b617b47f58fdc3",
+  "active": "1b967436eae80a4d",
   "lastOpenFiles": [
-    "Distribuciones/Distribución Chi cuadrado.md",
-    "Distribuciones/Distribución Weibull.md",
+    "Distribuciones/Distribución de Pascal.md",
+    "Distribuciones/Distribución Beta.md",
     "Distribuciones/Tabla de distribuciones.md",
-    "Capitulo 5/Variable discreta condicional.md",
-    "Distribuciones/probabilidad_distribuciones.pdf",
-    "Capitulo 1/Probabilidad condicional.md",
-    "Capitulo 1/Formula de Bayes.md",
-    "prueba/Holusss diosaaa.md",
     "Distribuciones/Distribución Gamma.md",
-    "Capitulo 5/Variable aleatoria condicional.md"
+    "Distribuciones/Distribución Weibull.md",
+    "Distribuciones/Distribución Chi cuadrado.md",
+    "Distribuciones/Distribución Binomial.md",
+    "Distribuciones/Distribución de Bernoulli.md",
+    "Capitulo 2/Supervivencia.md",
+    "Distribuciones/Función Gamma.md"
   ]
 }

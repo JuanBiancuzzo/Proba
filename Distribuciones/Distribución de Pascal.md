@@ -11,3 +11,7 @@ $$ X \sim Pas(k, p) $$
 * El [[Rango de una variable discreta]] de $X$ es $R_X = \{x \in \mathbb{Z} : x \geq k\}$
 * $p \in (0, 1)$ y $k \in \mathbb{N}$ 
 * La [[Esperanza]] es $E[X] = \frac{k}{p}$ y la [[Varianza]] es $Var(X) = \frac{k \cdot (1 - p)}{p^2}$.
+
+### Observaciones
+---
+Dado $X$ con Distribución de Pascal de parametros $1$ y $p$, $X \sim Pas(1, p)$ es equivalente a una [[Distribución Geométrica]]. 

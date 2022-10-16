@@ -52,3 +52,7 @@
 ### Distribución Weibull
 ---
 ![[Distribución Weibull#Definición]]
+
+### Distribución Beta
+---
+![[Distribución Beta#Definición]]

@@ -8,7 +8,7 @@ $$ X \sim \varepsilon(\lambda)$$
 ---
 * El [[Soporte]] de $X$ es $Sop(X) = [0, \infty)$ 
 * $\lambda > 0$
-* La [[Esperanza]] es $E[X] = \frac{1}{\lambda}$ y la [[Varianza]] es $Var(X) = \frac{1}{\lambda^2}$.
+* La [[Esperanza]] es $E[X] = \frac{1}{\lambda}$, la [[Supervivencia]] es $S(t) = e^{-\lambda \cdot t}$ y la [[Varianza]] es $Var(X) = \frac{1}{\lambda^2}$.
 
 
 ### Propiedades
