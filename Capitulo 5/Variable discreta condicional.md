@@ -1,6 +1,6 @@
 ### Definición
 ---
-Sea $X$ e $Y$ [[Variable aleatoria discreta]], con [[Función de probabilidad marginal]] $p_X(x) > 0$, la [[Función de probabilidad]] de $Y$ dado que $X = x$ es $$ \begin{align} p_{Y|X = x}(y) = \mathbb{P}(Y = y | X = x) &= \frac{\mathbb{P}(X = x, Y = y)}{\mathbb{P}(X = x)}  \\
+Sea $X$ e $Y$ [[Variable aleatoria discreta]] haciendo un [[Vector aleatorio]], con [[Función de probabilidad conjunta]] $p_{X,Y}(x, y)$ y [[Función de probabilidad marginal]] $p_X(x)$, entonces para cualquier valor de $X$ con el cual $p_X(x) > 0$, la función de probabilidad de la variable condicional de $Y$ dado que $X = x$ es  $$ \begin{align} p_{Y|X = x}(y) = \mathbb{P}(Y = y | X = x) &= \frac{\mathbb{P}(X = x, Y = y)}{\mathbb{P}(X = x)}  \\
 p_{Y|X = x}(y) &= \frac{p_{X,Y}(x, y)}{p_X(x)}
 \end{align}$$
 Se define como $p_{Y|X = x}(y) = 0$ cuando $p_X(x) = 0$.

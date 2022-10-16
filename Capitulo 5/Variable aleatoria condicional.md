@@ -1,7 +1,0 @@
-### Definición
----
-
-
-
-### Observación
----
