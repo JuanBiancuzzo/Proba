@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md",
+                "file": "Distribuciones/Distribución de Cauchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md",
+                "file": "Distribuciones/Distribución de Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md",
+                "file": "Distribuciones/Distribución de Cauchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones.md"
+                "file": "Distribuciones/Distribución de Cauchy.md"
               }
             }
           }

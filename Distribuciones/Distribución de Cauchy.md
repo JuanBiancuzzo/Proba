@@ -7,5 +7,5 @@ $$ X \sim Cau(x_0, \gamma) $$
 #### Notas
 ---
 * El [[Soporte]] de $X$ es $Sop(X) = \mathbb{R}$ 
-* $x_0 \in \mathbb{R}$ y $\gamma > 0$
+* $x_0 \in \mathbb{R}$ y $\gamma > 0$ 
 * No existe su [[Esperanza]] ni su [[Varianza]].
