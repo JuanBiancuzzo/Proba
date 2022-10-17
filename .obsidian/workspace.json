@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "87695c2a0a970cc9",
+        "id": "e4da76ffe4dce2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a7df13aabe2a6058",
+            "id": "c00f4fa3b466fc51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 5/Variable continua condicional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84b699a3ea36a527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 5/Esperanza condicional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cd0632f17118a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 5/Esperanza condicional.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 5/Esperanza condicional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 5/Esperanza condicional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capitulo 5/Esperanza condicional.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,17 +132,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5cd0632f17118a1e",
+  "active": "c00f4fa3b466fc51",
   "lastOpenFiles": [
-    "Capitulo 5/Varianza condicional.md",
-    "Distribuciones/Distribución de Pascal.md",
     "Distribuciones/Tabla de distribuciones.md",
-    "Distribuciones/Función Gamma.md",
-    "Distribuciones/Distribución Weibull.md",
-    "Distribuciones/Distribución normal.md",
-    "Distribuciones/Distribución uniforme.md",
-    "Capitulo 5/Esperanza condicional.md",
-    "Capitulo 5/Variable aleatoria mezcla.md",
-    "Capitulo 5/Esperanza continua condicional.md"
+    "Distribuciones/Tabla de distribuciones discretas.md",
+    "Distribuciones/Calculo de probabilidad.md",
+    "Distribuciones/Tabla de distribuciones multivariadas.md",
+    "Distribuciones/Tabla de distribuciones continuas.md",
+    "Distribuciones/Distribución de Cauchy.md",
+    "Distribuciones/Distribución de Rayleight.md",
+    "Distribuciones/Distribución de Pareto.md",
+    "Distribuciones/probabilidad_distribuciones.pdf",
+    "Distribuciones/Distribución t-Student.md"
   ]
 }
