@@ -1,4 +1,4 @@
-![[Tabla de distribuciones discretas]]
+![[Tabla de distribuciones discretas]] 
 
 
 
