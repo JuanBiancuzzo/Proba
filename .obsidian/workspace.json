@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4da76ffe4dce2ef",
+        "id": "76a53f99fe98fb85",
         "type": "tabs",
         "children": [
           {
-            "id": "c00f4fa3b466fc51",
+            "id": "4e42fa47a95ed445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución de Cauchy.md",
+                "file": "Distribuciones/Distribución de Pareto.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones/Distribución de Cauchy.md",
+                "file": "Distribuciones/Distribución de Pareto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones/Distribución de Cauchy.md",
+                "file": "Distribuciones/Distribución de Pareto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones/Distribución de Cauchy.md"
+                "file": "Distribuciones/Distribución de Pareto.md"
               }
             }
           }
@@ -140,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c00f4fa3b466fc51",
+  "active": "4e42fa47a95ed445",
   "lastOpenFiles": [
+    "Distribuciones/Distribución de Rayleight.md",
+    "Distribuciones/probabilidad_distribuciones.pdf",
+    "Distribuciones/Distribución de Cauchy.md",
     "Distribuciones/Tabla de distribuciones.md",
     "Distribuciones/Tabla de distribuciones discretas.md",
     "Distribuciones/Calculo de probabilidad.md",
     "Distribuciones/Tabla de distribuciones multivariadas.md",
     "Distribuciones/Tabla de distribuciones continuas.md",
-    "Distribuciones/Distribución de Cauchy.md",
-    "Distribuciones/Distribución de Rayleight.md",
     "Distribuciones/Distribución de Pareto.md",
-    "Distribuciones/probabilidad_distribuciones.pdf",
     "Distribuciones/Distribución t-Student.md"
   ]
 }
