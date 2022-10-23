@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución de Pareto.md",
+                "file": "Capitulo 2/Variable aleatoria discreta.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8ec006deda2d50c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones/Distribución de Pareto.md",
+                "file": "Capitulo 2/Variable aleatoria discreta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones/Distribución de Pareto.md",
+                "file": "Capitulo 2/Variable aleatoria discreta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones/Distribución de Pareto.md"
+                "file": "Capitulo 2/Variable aleatoria discreta.md"
               }
             }
           }
@@ -142,6 +141,8 @@
   },
   "active": "4e42fa47a95ed445",
   "lastOpenFiles": [
+    "Capitulo 2/Variable aleatoria mixta.md",
+    "Distribuciones/Distribución de Pareto.md",
     "Distribuciones/Distribución de Rayleight.md",
     "Distribuciones/probabilidad_distribuciones.pdf",
     "Distribuciones/Distribución de Cauchy.md",
@@ -149,8 +150,6 @@
     "Distribuciones/Tabla de distribuciones discretas.md",
     "Distribuciones/Calculo de probabilidad.md",
     "Distribuciones/Tabla de distribuciones multivariadas.md",
-    "Distribuciones/Tabla de distribuciones continuas.md",
-    "Distribuciones/Distribución de Pareto.md",
-    "Distribuciones/Distribución t-Student.md"
+    "Distribuciones/Tabla de distribuciones continuas.md"
   ]
 }
