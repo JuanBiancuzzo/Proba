@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 6/Proceso de Bernoulli.md",
+                "file": "Distribuciones/Distribución Multinomial.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,9 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Tabla de distribuciones discretas.md",
+                "file": "Distribuciones/Tabla de distribuciones multivariadas.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f053bdff531830d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a60e17a4ed315f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Distribuciones/probabilidad_distribuciones.pdf"
               }
             }
           }
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 6/Proceso de Bernoulli.md",
+                "file": "Distribuciones/Distribución Multinomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 6/Proceso de Bernoulli.md",
+                "file": "Distribuciones/Distribución Multinomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 6/Proceso de Bernoulli.md"
+                "file": "Distribuciones/Distribución Multinomial.md"
               }
             }
           }
@@ -154,15 +170,15 @@
   },
   "active": "53f5cf59c33ebe1c",
   "lastOpenFiles": [
+    "Distribuciones/Tabla de distribuciones multivariadas.md",
+    "Distribuciones/Distribución Multinomial.md",
+    "Distribuciones/Distribución Hipergeométrica.md",
+    "Distribuciones/Distribución Binomial.md",
     "Distribuciones/Tabla de distribuciones discretas.md",
-    "Distribuciones/Tabla de distribuciones.md",
-    "Capitulo 6/Proceso de Bernoulli.md",
-    "Capitulo 2/Variable aleatoria.md",
-    "Capitulo 2/Variable aleatoria discreta.md",
-    "Capitulo 2/Variable aleatoria mixta.md",
-    "Distribuciones/Distribución de Pareto.md",
-    "Distribuciones/Distribución de Rayleight.md",
     "Distribuciones/probabilidad_distribuciones.pdf",
-    "Distribuciones/Distribución de Cauchy.md"
+    "Capitulo 6/Proceso de Bernoulli.md",
+    "Distribuciones/Tabla de distribuciones.md",
+    "Capitulo 2/Variable aleatoria.md",
+    "Capitulo 2/Variable aleatoria discreta.md"
   ]
 }
