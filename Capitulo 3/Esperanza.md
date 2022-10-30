@@ -1,5 +1,7 @@
 Es el promedio ponderado que puede tomar una [[Variable aleatoria]] $X$. Analogo al centro de masa de un objeto.
 
+Tambien la llaman media.
+
 ### Definición
 ---
 Sea $X$ una [[Variable aleatoria]] con [[Función de distribución]] $F_X(x) = \mathbb{P}(X \leq x)$, si $h(X)$ es una [[Función de variable aleatoria]] cualquiera de $X$, si definimos $A$ como el conjunto de [[Átomos]], entonces:
