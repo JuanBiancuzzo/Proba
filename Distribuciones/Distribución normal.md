@@ -18,4 +18,4 @@ $$ \Phi(x) = F_X(x) = \mathbb{P}(X \leq x) = \int_{-\infty}^{\infty} \frac{1}{\s
 
 #### Observación
 ---
-	Para cuando $\mu = 1$ y $\sigma = 0$ se le dice distrobución normal estandar.
+Para cuando $\mu = 1$ y $\sigma = 0$ se le dice distrobución normal estandar.
