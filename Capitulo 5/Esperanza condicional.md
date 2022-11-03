@@ -1,4 +1,4 @@
-	### Definición
+### Definición
 ---
 Definimos a la [[Variable aleatoria]] esperanza condicinal de $Y$ dado $X$, denotada por $E[Y|X]$, como la [[Función de regresión]] evaluado en $X$ de forma que $$ \varphi(X) = E[Y|X] $$
 #### Propiedades

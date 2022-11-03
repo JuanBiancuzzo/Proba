@@ -4,7 +4,7 @@ Bernoulli modela un expermento con dos resultados posibles, asignado el valor $1
 
 Se dice que una [[Variable aleatoria]] $X$ tiene distribución de Bernoulli de parámetro $p$ si su [[Función de probabilidad]] es $$ p_X(x) = p^x \cdot (1 - p)^{1 - x}$$
 ##### Notación
-$$ X \sim Ber(\mu) $$
+$$ X \sim Ber(p) $$
 
 #### Notas
 ---

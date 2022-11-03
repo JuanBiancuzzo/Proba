@@ -14,7 +14,7 @@ $$ X \sim N(\mu, \sigma^2) $$
 
 ### Calculo de probabilidad
 ---
-$$ \Phi(x) = F_X(x) = \mathbb{P}(X \leq x) = \int_{-\infty}^{\infty} \frac{1}{\sqrt{2 \cdot \pi \cdot \sigma} } \cdot e^{-(t - \mu)^2 \cdot (2 \cdot \sigma^2)^{-1}} dt $$
+$$ \Phi(x) = F_X(x) = \mathbb{P}(X \leq x) = \int_{-\infty}^{x} \frac{1}{\sqrt{2 \cdot \pi \cdot \sigma} } \cdot e^{-(t - \mu)^2 \cdot (2 \cdot \sigma^2)^{-1}} dt $$
 
 #### Observación
 ---
