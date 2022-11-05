@@ -11,7 +11,7 @@ $$ X \sim \Gamma(\nu, \lambda) $$
 * $\nu > 0$ y $\lambda > 0$
 * La [[Esperanza]] es $E[X] = \frac{\nu}{\mu}$, si $\nu \in \mathbb{N}$ entonces su [[Supervivencia]] es $S(t) = \displaystyle \sum_{n = 0}^{\nu - 1} \frac{e^{-\lambda \cdot t} \cdot (\lambda \cdot t)^n}{n!}$ y la [[Varianza]] es $Var(X) = \frac{\nu}{\lambda^2}$.
 
-### Observaciones
+### Propiedades
 ---
 La función $\Gamma(t)$ crece muy rápidamente, y para evitar problemas numéricos en algunos algoritmos conviene adaptar las formulas para que aparezca el logaritmo de la función $log|\Gamma(t)|$ 
 

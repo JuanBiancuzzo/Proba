@@ -44,31 +44,19 @@
             }
           },
           {
-            "id": "e43286056c6a60a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 8/Corrección por continuidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "012d31bb65297610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución Binomial.md",
+                "file": "Distribuciones/Distribución de Bernoulli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8ec006deda2d50c",
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 8/Corrección por continuidad.md",
+                "file": "Capitulo 8/Teorema central del limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 8/Corrección por continuidad.md",
+                "file": "Capitulo 8/Teorema central del limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 8/Corrección por continuidad.md"
+                "file": "Capitulo 8/Teorema central del limite.md"
               }
             }
           }
@@ -186,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e43286056c6a60a9",
+  "active": "baeee5d28f3915a2",
   "lastOpenFiles": [
-    "Distribuciones/Distribución Binomial.md",
-    "Capitulo 8/Corrección por continuidad.md",
+    "Distribuciones/Distribución de Bernoulli.md",
+    "Capitulo 6/Proceso de Bernoulli.md",
     "Distribuciones/Distribución Geométrica.md",
-    "Distribuciones/Distribución de Pascal.md",
-    "Distribuciones/Tabla de distribuciones discretas.md",
-    "Capitulo 8/Aproximación por la densidad normal.md",
     "Capitulo 8/Teorema central del limite.md",
+    "Capitulo 7/Proceso puntual de Poisson.md",
     "Distribuciones/Distribución exponencial.md",
-    "Distribuciones/Distribución normal multivariada.md",
-    "Distribuciones/Tabla de distribuciones multivariadas.md"
+    "Distribuciones/Distribución Gamma.md",
+    "Distribuciones/Distribución de Pascal.md",
+    "Distribuciones/Distribución Binomial.md",
+    "Distribuciones/Función Gamma.md"
   ]
 }
