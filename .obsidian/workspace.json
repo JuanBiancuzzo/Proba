@@ -4,59 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7c15915beb91ed3e",
+        "id": "9b85a1ac7502a657",
         "type": "tabs",
         "children": [
           {
-            "id": "188eca2bb52b2e9f",
+            "id": "b31f3cdc2b10d90a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 5/Varianza condicional.md",
+                "file": "Distribuciones/Distribución exponencial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a2c9e96221ce4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 3/Covarianza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0860a3b56f8eacde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 3/Varianza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66f64b4a88b6f76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 3/Esperanza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e760c18d779236",
+            "id": "bcdb0a36abe7fd8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +32,31 @@
             }
           },
           {
-            "id": "ce7be3b28e8dd0b3",
+            "id": "baeee5d28f3915a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución de Bernoulli.md",
+                "file": "Capitulo 8/Teorema central del limite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e43286056c6a60a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 8/Corrección por continuidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones/Distribución de Bernoulli.md",
+                "file": "Capitulo 8/Corrección por continuidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones/Distribución de Bernoulli.md",
+                "file": "Capitulo 8/Corrección por continuidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones/Distribución de Bernoulli.md"
+                "file": "Capitulo 8/Corrección por continuidad.md"
               }
             }
           }
@@ -198,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce7be3b28e8dd0b3",
+  "active": "e43286056c6a60a9",
   "lastOpenFiles": [
-    "Capitulo 6/Proceso de Bernoulli.md",
+    "Capitulo 8/Teorema central del limite.md",
+    "Distribuciones/Distribución exponencial.md",
     "Distribuciones/Distribución Geométrica.md",
-    "Distribuciones/Distribución uniforme.md",
-    "Capitulo 5/Varianza condicional.md",
-    "Capitulo 3/Esperanza.md",
+    "Distribuciones/Distribución normal multivariada.md",
+    "Distribuciones/Tabla de distribuciones multivariadas.md",
+    "Distribuciones/tablas.pdf",
     "Distribuciones/Distribución normal.md",
-    "Capitulo 5/Esperanza condicional.md",
-    "Capitulo 3/Covarianza.md",
-    "Capitulo 3/Varianza.md",
-    "Capitulo 5/Función de regresión.md"
+    "Capitulo 8/Normal estandar.md",
+    "Distribuciones/probabilidad_distribuciones.pdf",
+    "Distribuciones/Distribución Multinomial.md"
   ]
 }
