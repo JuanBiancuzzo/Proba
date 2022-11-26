@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9b85a1ac7502a657",
+        "id": "6192d89f0d0f175f",
         "type": "tabs",
         "children": [
           {
-            "id": "b31f3cdc2b10d90a",
+            "id": "68f726b526da8c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución exponencial.md",
+                "file": "Capitulo 9/Observable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcdb0a36abe7fd8f",
+            "id": "fad2e2df5b3f003b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribuciones/Distribución Geométrica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baeee5d28f3915a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 8/Teorema central del limite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012d31bb65297610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distribuciones/Distribución de Bernoulli.md",
+                "file": "Capitulo 9/Muestra aleatoria.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 8/Teorema central del limite.md",
+                "file": "Capitulo 9/Observable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 8/Teorema central del limite.md",
+                "file": "Capitulo 9/Observable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,28 +137,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 8/Teorema central del limite.md"
+                "file": "Capitulo 9/Observable.md"
               }
             }
+          },
+          {
+            "id": "7b1f9e66919db208",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "baeee5d28f3915a2",
+  "active": "68f726b526da8c90",
   "lastOpenFiles": [
-    "Distribuciones/Distribución de Bernoulli.md",
-    "Capitulo 6/Proceso de Bernoulli.md",
-    "Distribuciones/Distribución Geométrica.md",
-    "Capitulo 8/Teorema central del limite.md",
-    "Capitulo 7/Proceso puntual de Poisson.md",
-    "Distribuciones/Distribución exponencial.md",
-    "Distribuciones/Distribución Gamma.md",
-    "Distribuciones/Distribución de Pascal.md",
-    "Distribuciones/Distribución Binomial.md",
-    "Distribuciones/Función Gamma.md"
+    "Capitulo 9/Muestra aleatoria.md",
+    "Capitulo 9/Observable.md",
+    "Capitulo 9/Inferencia.md",
+    "Capitulo 9/Población.md",
+    "Capitulo 9/Muestra.md",
+    "Capitulo 2/Función de distribución.md",
+    "Estadisticos suficientes/Tabla de estadisticos suficientes.md",
+    "Distribuciones/Distribución normal.md",
+    "Capitulo 8/Normal estandar.md",
+    "Distribuciones/Distribución de Cauchy.md"
   ]
 }
