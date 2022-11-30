@@ -15,4 +15,4 @@ $$ X \sim Wei(c, \alpha) $$
 ---
 Cuando se tiene una [[Variable aleatoria]] $X \sim Wei(c, 2)$ entonces $X^2 \sim Exp(\frac{1}{c^2})$ ([[Distribución exponencial]]).
 
-Dado $X$ con distribución Gamma de parametros $1$ y $\frac{1}{\lambda}$, $X \sim Wei(1, \frac{1}{\lambda})$ es equivalente a una [[Distribución exponencial]], y es equivalente a una [[Distribución Gamma]] de parametros $1$ y $\lambda$, $X \sim \Gamma(1, \lambda)$. 
+![[Distribución Gamma#Equivalente con Weibull]]

@@ -15,6 +15,11 @@ $$ X \sim \Gamma(\nu, \lambda) $$
 ---
 La función $\Gamma(t)$ crece muy rápidamente, y para evitar problemas numéricos en algunos algoritmos conviene adaptar las formulas para que aparezca el logaritmo de la función $log|\Gamma(t)|$ 
 
-Dado $X$ con distribución Gamma de parametros $1$ y $\lambda$, $X \sim \Gamma(1, \lambda)$ es equivalente a una [[Distribución exponencial]], y es equivalente a una [[Distribución Weibull]] de parametros $1$ y $\frac{1}{\lambda}$, $X \sim Wei(1, \frac{1}{\lambda})$. 
+##### Equivalencia con Exponencial
+Dado $X$ con [[Distribución Gamma]] de parametros $1$ y $\lambda$, $X \sim \Gamma(1, \lambda)$ es equivalente a una [[Distribución exponencial]]
 
-Dado $X$ con distribución Gamma de parametros $\frac{k}{2}$ y $\frac{1}{2}$, con $k \in \mathbb{N}$, $X \sim \Gamma(\frac{k}{2}, \frac{1}{2})$ es equivalente a una [[Distribución Chi cuadrado]].
+##### Equivalente con Weibull
+Dado $X$ con [[Distribución Gamma]] de parametros $1$ y $\lambda$, $X \sim \Gamma(1, \lambda)$ es equivalente a una [[Distribución Weibull]] de parametros $1$ y $\frac{1}{\lambda}$, $X \sim Wei(1, \frac{1}{\lambda})$. 
+
+##### Equivalencia con Chi cuadrado
+Dado $X$ con [[Distribución Gamma]] de parametros $\frac{k}{2}$ y $\frac{1}{2}$, con $k \in \mathbb{N}$, $X \sim \Gamma(\frac{k}{2}, \frac{1}{2})$ es equivalente a una [[Distribución Chi cuadrado]].

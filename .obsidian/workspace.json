@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6192d89f0d0f175f",
+        "id": "404f27fe67c3ea20",
         "type": "tabs",
         "children": [
           {
-            "id": "68f726b526da8c90",
+            "id": "bfeb94c592b997b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 9/Observable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad2e2df5b3f003b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 9/Muestra aleatoria.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 9/Observable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 9/Observable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capitulo 9/Observable.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68f726b526da8c90",
+  "active": "bfeb94c592b997b6",
   "lastOpenFiles": [
-    "Capitulo 9/Muestra aleatoria.md",
-    "Capitulo 9/Observable.md",
-    "Capitulo 9/Inferencia.md",
-    "Capitulo 9/Población.md",
-    "Capitulo 9/Muestra.md",
-    "Capitulo 2/Función de distribución.md",
-    "Estadisticos suficientes/Tabla de estadisticos suficientes.md",
+    "Capitulo 9/Bondad de los estimadores.md",
+    "Capitulo 9/Estimador asintóticamente insesgado.md",
+    "Capitulo 9/Consistencia en media cuadrática.md",
+    "Capitulo 9/Estimadores asintóticamente normales.md",
     "Distribuciones/Distribución normal.md",
     "Capitulo 8/Normal estandar.md",
-    "Distribuciones/Distribución de Cauchy.md"
+    "Distribuciones/Distribución Chi cuadrado.md",
+    "Distribuciones/Distribución t-Student.md",
+    "Distribuciones/Distribución Gamma.md",
+    "Distribuciones/Distribución Weibull.md"
   ]
 }

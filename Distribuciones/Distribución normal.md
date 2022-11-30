@@ -19,3 +19,8 @@ $$ \Phi(x) = F_X(x) = \mathbb{P}(X \leq x) = \int_{-\infty}^{x} \frac{1}{\sqrt{2
 #### Observación
 ---
 Para cuando $\mu = 1$ y $\sigma = 0$ se le dice distrobución normal estandar.
+
+
+### Propiedades
+---
+Sean $X_1, \cdots, X_n$ son [[Variables independientes|independientes]] con $X_i \sim N(\mu, \sigma^2)$ entonces $Z = \sqrt{n} \frac{\overline{X} - \mu}{\sigma} \sim N(\mu = 0, \sigma^2 = 1)$.
