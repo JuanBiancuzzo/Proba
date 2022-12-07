@@ -5,4 +5,4 @@ Donde la regla de decisión es: $$ \delta(\underline{X}) = \begin{cases}
 	1 ~ \text{ si } \displaystyle\frac{f_{\theta_2}(\underline{X})}{f_{\theta_1}(\underline{X})} > k_\alpha \\
 	0 ~ \text{ si no}
 \end{cases} $$
-Dad un $\alpha$ fijo correspondiente al [[Nivel de significación del test]].
+Dad un $\alpha$ fijo correspondiente al [[Test con nivel de significación]].

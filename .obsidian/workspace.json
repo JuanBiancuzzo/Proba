@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfeb94c592b997b6",
+            "id": "8e3fbdfa91050d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 10/Test de una familia exponencial.md",
+                "file": "Capitulo 11/Intervalo de confianza de nivel 1-alfa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f6b74d69b1f75b4f",
+            "id": "40191ad5cebf0d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 11/Intervalos de confianza de nivel asintótico 1-alfa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2649a523d0e8af6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 10/Test con nivel de significación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0ee0d0f0c2b773f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +56,19 @@
             }
           },
           {
-            "id": "bd199d8e370630bb",
+            "id": "daf0c8fd557a0abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 9/Familia exponencial.md",
+                "file": "Capitulo 11/Relación entre region de confianza y test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
+                "file": "Capitulo 11/Relación entre region de confianza y test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
+                "file": "Capitulo 11/Relación entre region de confianza y test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 10/Test con nivel de significación asintótica.md"
+                "file": "Capitulo 11/Relación entre region de confianza y test.md"
               }
             }
           },
@@ -162,25 +186,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f6b74d69b1f75b4f",
+  "active": "daf0c8fd557a0abe",
   "lastOpenFiles": [
-    "Capitulo 10/Test de una familia exponencial.md",
-    "Capitulo 9/Familia exponencial.md",
-    "Capitulo 10/Nivel de significación del test.md",
-    "Capitulo 9/Teorema de la familia exponencia.md",
-    "Capitulo 10/Test del cociente de verosimilitud.md",
-    "Capitulo 10/Hipótesis nula.md",
-    "Capitulo 10/p-valor.md",
-    "Capitulo 10/Potencia.md",
-    "Capitulo 10/Test de hipótesis.md",
-    "Capitulo 10/Tipos de errores al tomar una decisión.md"
+    "Capitulo 10/Test con nivel de significación.md",
+    "Capitulo 11/Relación entre region de confianza y test.md",
+    "Capitulo 11/Intervalos de confianza de nivel asintótico 1-alfa.md",
+    "Capitulo 10/Test con nivel de significación asintótica.md",
+    "Estadisticos suficientes/Tabla de estadisticos suficientes.md",
+    "Capitulo 11/Método del pivote.md",
+    "Capitulo 9/Estimadores asintóticamente normales.md",
+    "Capitulo 9/Número de información de fisher.md",
+    "Capitulo 9/Método de máxima verosimilitud.md",
+    "Distribuciones/Distribución t-Student.md"
   ]
 }
