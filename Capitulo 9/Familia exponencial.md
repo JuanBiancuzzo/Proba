@@ -10,3 +10,7 @@ Se dice que una familia de distribuciones (continuas o discretas) en $\mathbb{R}
 ### Teorema
 ---
 ![[Teorema de la familia exponencia#Definición]]
+
+### Propiedad
+---
+![[Test de una familia exponencial#Definición]]

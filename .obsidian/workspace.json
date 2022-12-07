@@ -11,11 +11,40 @@
             "id": "bfeb94c592b997b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 10/Test de una familia exponencial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6b74d69b1f75b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd199d8e370630bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulo 9/Familia exponencial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitulo 10/Test con nivel de significación asintótica.md"
+              }
             }
           },
           {
@@ -137,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfeb94c592b997b6",
+  "active": "f6b74d69b1f75b4f",
   "lastOpenFiles": [
-    "Capitulo 9/Bondad de los estimadores.md",
-    "Capitulo 9/Estimador asintóticamente insesgado.md",
-    "Capitulo 9/Consistencia en media cuadrática.md",
-    "Capitulo 9/Estimadores asintóticamente normales.md",
-    "Distribuciones/Distribución normal.md",
-    "Capitulo 8/Normal estandar.md",
-    "Distribuciones/Distribución Chi cuadrado.md",
-    "Distribuciones/Distribución t-Student.md",
-    "Distribuciones/Distribución Gamma.md",
-    "Distribuciones/Distribución Weibull.md"
+    "Capitulo 10/Test de una familia exponencial.md",
+    "Capitulo 9/Familia exponencial.md",
+    "Capitulo 10/Nivel de significación del test.md",
+    "Capitulo 9/Teorema de la familia exponencia.md",
+    "Capitulo 10/Test del cociente de verosimilitud.md",
+    "Capitulo 10/Hipótesis nula.md",
+    "Capitulo 10/p-valor.md",
+    "Capitulo 10/Potencia.md",
+    "Capitulo 10/Test de hipótesis.md",
+    "Capitulo 10/Tipos de errores al tomar una decisión.md"
   ]
 }
