@@ -4,71 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "404f27fe67c3ea20",
+        "id": "09fd05759de30596",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3fbdfa91050d89",
+            "id": "726a650873771ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 11/Intervalo de confianza de nivel 1-alfa.md",
+                "file": "Capitulo 12/Estimación Bayesiana.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40191ad5cebf0d32",
+            "id": "3c4e256497bc8369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 11/Intervalos de confianza de nivel asintótico 1-alfa.md",
+                "file": "Capitulo 12/Función de pérdida.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2649a523d0e8af6e",
+            "id": "1931745eaea7f35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 10/Test con nivel de significación.md",
+                "file": "Capitulo 12/Riesgo de Bayes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0ee0d0f0c2b773f",
+            "id": "3c509b4e91a021b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitulo 10/Test con nivel de significación asintótica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daf0c8fd557a0abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitulo 11/Relación entre region de confianza y test.md",
+                "file": "Capitulo 12/Estimación de probabilidades.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitulo 11/Relación entre region de confianza y test.md",
+                "file": "Capitulo 12/Estimación Bayesiana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitulo 11/Relación entre region de confianza y test.md",
+                "file": "Capitulo 12/Estimación Bayesiana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitulo 11/Relación entre region de confianza y test.md"
+                "file": "Capitulo 12/Estimación Bayesiana.md"
               }
             }
           },
@@ -193,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "daf0c8fd557a0abe",
+  "active": "726a650873771ed2",
   "lastOpenFiles": [
-    "Capitulo 10/Test con nivel de significación.md",
-    "Capitulo 11/Relación entre region de confianza y test.md",
+    "Capitulo 12/Estimación de probabilidades.md",
+    "Capitulo 12/Estimación Bayesiana.md",
+    "Capitulo 12/Riesgo de Bayes.md",
+    "Capitulo 12/Función de pérdida.md",
+    "Capitulo 2/Función de densidad marginal.md",
+    "Capitulo 5/Variable continua condicional.md",
+    "Capitulo 11/Intervalo de confianza de nivel 1-alfa.md",
     "Capitulo 11/Intervalos de confianza de nivel asintótico 1-alfa.md",
-    "Capitulo 10/Test con nivel de significación asintótica.md",
-    "Estadisticos suficientes/Tabla de estadisticos suficientes.md",
-    "Capitulo 11/Método del pivote.md",
-    "Capitulo 9/Estimadores asintóticamente normales.md",
-    "Capitulo 9/Número de información de fisher.md",
-    "Capitulo 9/Método de máxima verosimilitud.md",
-    "Distribuciones/Distribución t-Student.md"
+    "Capitulo 10/Test con nivel de significación.md",
+    "Capitulo 10/Test con nivel de significación asintótica.md"
   ]
 }
