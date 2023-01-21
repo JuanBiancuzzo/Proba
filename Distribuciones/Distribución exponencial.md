@@ -1,3 +1,7 @@
+---
+distribucion: Continua
+---
+
  ### Definición 
 ---
 Una [[Variable aleatoria]] tiene distribución exponencial de parametro $\lambda > 0$ si su [[Función de densidad]] esta dada por $$ f_X(x) = \lambda \cdot e^{-\lambda \cdot x} \cdot \mathbb{1}\{x > 0\} $$

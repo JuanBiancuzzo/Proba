@@ -1,3 +1,7 @@
+---
+distribucion: Discreta
+---
+
 ### Definición
 ---
 Geométrica modela la cantidad de ensayos necesarios hasta obtener el primer éxito si se repite de forma independiente un experimento de Bernoulli con probabilidad $p$ de éxito.

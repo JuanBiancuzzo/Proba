@@ -1,3 +1,12 @@
+#### Indice
+```dataview
+LIST
+WHERE contains(distribucion, "Discreta")
+```
+
+## Distribuciones
+---
+
 ### Distribución de Bernoulli
 ---
 ![[Distribución de Bernoulli#Definición]]

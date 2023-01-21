@@ -1,3 +1,7 @@
+---
+distribucion: Continua
+---
+
 ### Definición
 ---
 Para una [[Variable aleatoria continua]] se define su [[Función de densidad]] de forma que $$ f_X(x) = \frac{1}{b - a} \cdot \mathbb{1} \{ a < x < b \}$$

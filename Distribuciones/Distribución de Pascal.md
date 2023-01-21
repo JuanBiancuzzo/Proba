@@ -1,3 +1,7 @@
+---
+distribucion: Discreta
+---
+
 ### Definición
 ---
 Pascal modela la cantidad de ensayos necesarios hasta obtener $k$ éxitos si se repite de forma independiente un experimento de Bernoulli con probabilidad $p$ de éxito.

@@ -1,3 +1,7 @@
+---
+distribucion: Continua
+---
+
 ### Definición
 ---
 Se dice que una [[Variable aleatoria]] $X$ tiene distribución Weibull de parámetros $c$ y $\alpha$ si su [[Función de densidad]] es $$ f_X(x) = \frac{c}{\alpha} \bigg( \frac{x}{\alpha} \bigg)^{c-1} e^{-\bigg({\displaystyle\frac{x}{\alpha}} \bigg)^c} $$

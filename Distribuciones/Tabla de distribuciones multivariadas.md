@@ -1,3 +1,12 @@
+#### Indice
+```dataview
+LIST
+WHERE contains(distribucion, "Multivariada")
+```
+
+## Distribuciones
+---
+
 ### Distribución Multinomial
 ---
 ![[Distribución Multinomial#Definición]]

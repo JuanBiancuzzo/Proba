@@ -1,3 +1,7 @@
+---
+distribucion: Discreta
+---
+
 ### Definición
 ---
 Hipergeométrica modela la cantidad de éxitos en $n$ extracciones sin reposición de una pobración de tamaño total $N$, de los cuales $d$ individuos son éxito y $N - d$ individuos no lo son.

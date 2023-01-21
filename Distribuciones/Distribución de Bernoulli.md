@@ -1,3 +1,7 @@
+---
+distribucion: Discreta
+---
+
 ### Definición
 ---
 Bernoulli modela un expermento con dos resultados posibles, asignado el valor $1$ a la ocurrencia del evento estudiado (que en general se lo llama éxito y tiene probabilidad $p$) y $0$ a la no ocurrencia del mismo (con probabilidad $1 - p$).

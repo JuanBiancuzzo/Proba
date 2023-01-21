@@ -1,3 +1,7 @@
+---
+distribucion: Continua
+---
+
 ### Definición
 ---
 La [[Variable aleatoria]] $X$ que toma los valores $x \in \mathbb{R}$ tiene una distribucipon normal si su [[Función de densidad]] es de la forma $$ f_X(x) = \varphi(x) = \frac{1}{\sqrt{2 \cdot \pi \cdot \sigma }} \cdot e^{-(x - \mu)^2 \cdot (2 \cdot \sigma^2)^{-1}} $$

@@ -1,7 +1,7 @@
 
 ### [[Distribución de Poisson]]
 ---
-Dado $X \sim Poi(\lambda)$ e $Y \sim Poi(\mu)$, donde se tiene un $W = X + Y$, con $X$ e $Y$ son [[Variables independientes]]. Entonces $W \sim Poi(\lambda + \mu)$
+Dado $X \sim Poi(\lambda)$ e $Y \sim Poi(\mu)$, donde se tiene un $W = X + Y$, con $X$ e $Y$ son [[Variables independientes|independientes]]. Entonces $W \sim Poi(\lambda + \mu)$
 
 ### [[Distribución exponencial]]
 ---

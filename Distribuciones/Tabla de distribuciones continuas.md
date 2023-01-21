@@ -1,3 +1,12 @@
+#### Indice
+```dataview
+LIST
+WHERE contains(distribucion, "Continua")
+```
+
+## Distribuciones
+---
+
 ### Distribución Uniforme
 ---
 ![[Distribución uniforme#Definición]]

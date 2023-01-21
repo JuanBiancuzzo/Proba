@@ -1,3 +1,7 @@
+---
+distribucion: Multivariada
+---
+
 ### Definición
 ---
 La variable aleatoria Multinomial modela la cnatidad de observaciones de cada resultado posible al repetir $n$ veces de forma independiente un experimento que toma valores en $\Set{1, \cdots, k}$ con probabilidades $p_i$ para cada resultado $i \in \Set{1, \cdots, k}$

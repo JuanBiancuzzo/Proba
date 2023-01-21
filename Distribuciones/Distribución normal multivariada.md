@@ -1,3 +1,7 @@
+---
+distribucion: Multivariada
+---
+
 ### Definición
 ---
 Se dice que el [[Vector aleatorio]] $X = (X_1, X_2, \cdots, X_p)$ tiene distribución normal multivariada de dimensión $p$, de parámetros $\mu \in \mathbb{R}^p$ y $\Sigma \in \mathbb{R}^{p \times p}$ (simétrica y definida positiva), si su [[Función de densidad conjunta]] esta dada por $$ f_X(x) = \frac{1}{(2 \pi)^\frac{1}{2} \cdot (Det(\Sigma))^2} \cdot exp\bigg( -\frac{1}{2} \cdot (x - \mu)^T \cdot \Sigma^{-1} \cdot (x - \mu) \bigg) $$ donde $X$ y $x$ son vectores en $\mathbb{R}^p$.
